@@ -1,0 +1,23 @@
+.elementor-40 .elementor-element.elementor-element-2cf0ec80 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-40 .elementor-element.elementor-element-2cf0ec80 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-40 .elementor-element.elementor-element-11216430 > .elementor-container {min-height: 94px;}
+.elementor-40 .elementor-element.elementor-element-11216430 {margin-top: -1px;margin-bottom: -94px;z-index: 100;}
+.elementor-bc-flex-widget .elementor-40 .elementor-element.elementor-element-60951693.elementor-column .elementor-widget-wrap {align-items: center;}
+.elementor-40 .elementor-element.elementor-element-60951693.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: center;align-items: center;}
+.elementor-40 .elementor-element.elementor-element-60951693 > .elementor-element-populated {padding: 0% 0% 0% 20%;}
+.elementor-40 .elementor-element.elementor-element-5cae9b49 .elementor-heading-title {color: #3d4e60;font-family: "Montserrat",Sans-serif;font-size: 22px;font-weight: 400;}
+.elementor-40 .elementor-element.elementor-element-4f7a9e50.elementor-column > .elementor-widget-wrap {justify-content: flex-end;}
+.elementor-40 .elementor-element.elementor-element-4f7a9e50 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button {font-size: 30px;fill: #fff;color: #fff;background-color: #635dff;border-radius: 0px 0px 0px 30px;box-shadow: -10px 10px 30px 0px rgba(0,0,0,.15);padding: 30px 25px 30px 30px;}
+.elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button:hover, .elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button:focus {color: #635dff;background-color: #fff;}
+.elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button:hover svg, .elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button:focus svg {fill: #635dff;}
+@media (max-width:1024px) {.elementor-40 .elementor-element.elementor-element-11216430 > .elementor-container {min-height: 85px;}
+	.elementor-40 .elementor-element.elementor-element-11216430 {margin-top: 0px;margin-bottom: -85px;}
+	.elementor-40 .elementor-element.elementor-element-60951693 > .elementor-element-populated {padding: 0% 0% 0% 5%;}
+	.elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button {font-size: 25px;padding: 25px 18px 25px 25px;}}
+@media (max-width:767px) {.elementor-40 .elementor-element.elementor-element-11216430 > .elementor-container {min-height: 75px;}
+	.elementor-40 .elementor-element.elementor-element-11216430 {margin-top: 0px;margin-bottom: -75px;}
+	.elementor-40 .elementor-element.elementor-element-60951693 {width: 65%;}
+	.elementor-40 .elementor-element.elementor-element-5cae9b49 .elementor-heading-title {font-size: 18px;}
+	.elementor-40 .elementor-element.elementor-element-4f7a9e50 {width: 35%;}
+	.elementor-40 .elementor-element.elementor-element-5fc09db7 .elementor-button {font-size: 22px;padding: 20px 20px 20px 25px;}}
