@@ -6,6 +6,7 @@
  {}
 h1.entry-title {display: var(--page-title-display);}
 .elementor-kit-6 e-page-transition {background-color: #ffbc7d;}
+.site-header {padding-right: 0px;padding-left: 0px;}
 @media (max-width:1024px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1024px;}
 	.e-container {--container-max-width: 1024px;}}
 @media (max-width:767px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 767px;}
