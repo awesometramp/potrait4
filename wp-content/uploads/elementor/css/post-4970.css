@@ -5,6 +5,7 @@
 .elementor-4970 .elementor-element.elementor-element-7ae8eb8, .elementor-4970 .elementor-element.elementor-element-7ae8eb8 > .elementor-background-overlay {border-radius: 0px 0px 80px 80px;}
 .elementor-4970 .elementor-element.elementor-element-7ae8eb8 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 50px 0px 0px 0px;}
 .elementor-4970 .elementor-element.elementor-element-e734523 > .elementor-element-populated {margin: 0% 50% 0% 0%;--e-column-margin-right: 50%;--e-column-margin-left: 0%;padding: 0% 0% 0% 0%;}
+.elementor-4970 .elementor-element.elementor-element-7ded299 .jet-animated-text {justify-content: center;}
 .elementor-4970 .elementor-element.elementor-element-d384759 {--iteration-count: infinite;--dynamic-text-color: #fb4848;}
 .elementor-4970 .elementor-element.elementor-element-d384759 .elementor-headline {text-align: left;text-transform: none;}
 .elementor-4970 .elementor-element.elementor-element-d384759 > .elementor-widget-container {padding: 0px 70px 0px 0px;}
@@ -98,6 +99,9 @@
 .elementor-4970 .elementor-element.elementor-element-3c1599d {text-align: center;}
 .elementor-4970 .elementor-element.elementor-element-3c1599d > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-4970 .elementor-element.elementor-element-3c36b60 {text-align: center;}
+.elementor-4970 .elementor-element.elementor-element-6f09d41 .jet-carousel__content {text-align: left;}
+.elementor-4970 .elementor-element.elementor-element-6f09d41 .jet-carousel .jet-slick-dots {justify-content: center;}
+.elementor-4970 .elementor-element.elementor-element-6f09d41 .jet-carousel .jet-slick-dots li {padding-left: 5px;padding-right: 5px;}
 .elementor-4970 .elementor-element.elementor-element-bcc84ca {--e-image-carousel-slides-to-show: 2;}
 .elementor-4970 .elementor-element.elementor-element-bcc84ca .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {border-radius: 10px 10px 10px 10px;}
 .elementor-4970 .elementor-element.elementor-element-fc6fc44 > .elementor-widget-container {margin: 24px 0px 0px 0px;}
