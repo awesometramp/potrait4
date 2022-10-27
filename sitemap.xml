@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://awesometramp.github.io/potrait4/wp-sitemap-index.xsl" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://awesometramp.github.io/potrait4/wp-sitemap-posts-page-1.xml</loc></sitemap><sitemap><loc>https://awesometramp.github.io/potrait4/wp-sitemap-posts-jet-popup-1.xml</loc></sitemap><sitemap><loc>https://awesometramp.github.io/potrait4/wp-sitemap-users-1.xml</loc></sitemap></sitemapindex>
+<!-- This sitemap was dynamically generated on October 27, 2022 at 2:26 pm by All in One SEO - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://awesometramp.github.io/potrait4/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://awesometramp.github.io/potrait4/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-10-27T14:09:13+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://awesometramp.github.io/potrait4/jet-popup-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-10-24T11:04:27+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
