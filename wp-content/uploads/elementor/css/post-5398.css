@@ -12,3 +12,4 @@
 .elementor-5398 .elementor-element.elementor-element-747a7dda > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper > .jet-tabs__control {margin: 9px 9px 9px 9px;border-style: solid;border-width: 2px 2px 2px 2px;border-color: rgba(125,125,125,.21);border-radius: 2px 2px 2px 2px;}
 .elementor-5398 .elementor-element.elementor-element-747a7dda > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper > .jet-tabs__control.active-tab .jet-tabs__label-text {color: #ff4545;font-family: "Quicksand",Sans-serif;font-weight: 900;}
 .elementor-5398 .elementor-element.elementor-element-747a7dda > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper > .jet-tabs__control.active-tab .jet-tabs__label-icon {color: #6e68fc;}
+@media (max-width:767px) {.elementor-5398 .elementor-element.elementor-element-747a7dda > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper {align-self: flex-start;}}
