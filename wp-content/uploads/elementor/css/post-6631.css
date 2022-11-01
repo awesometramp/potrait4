@@ -1,0 +1,17 @@
+.elementor-6631 .elementor-element.elementor-element-2d640123 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-6631 .elementor-element.elementor-element-2d640123:not(.elementor-motion-effects-element-type-background), .elementor-6631 .elementor-element.elementor-element-2d640123 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-6631 .elementor-element.elementor-element-2d640123 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 80px 0px 80px 0px;}
+.elementor-6631 .elementor-element.elementor-element-2d640123 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-6631 .elementor-element.elementor-element-5854e3fd:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #000;}
+.elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-element-populated, .elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-element-populated > .elementor-background-overlay, .elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-background-slideshow {border-radius: 46px 46px 46px 46px;}
+.elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-element-populated {box-shadow: 0px 0px 51px -2px rgba(0,0,0,.82);transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 50px 0px 50px 0px;}
+.elementor-6631 .elementor-element.elementor-element-5854e3fd > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-6631 .elementor-element.elementor-element-30fe2fb5 {text-align: center;}
+.elementor-6631 .elementor-element.elementor-element-30fe2fb5 .elementor-heading-title {color: #fff;font-size: 65px;font-weight: 600;}
+.elementor-6631 .elementor-element.elementor-element-50dfbb5 .elementor-button {font-size: 14px;font-weight: 600;text-transform: uppercase;fill: #000;color: #000;background-color: #fff;border-radius: 0px 0px 0px 0px;padding: 15px 45px 15px 45px;}
+.elementor-6631 .elementor-element.elementor-element-50dfbb5 .elementor-button:hover, .elementor-6631 .elementor-element.elementor-element-50dfbb5 .elementor-button:focus {color: #fff;background-color: #f25050;}
+.elementor-6631 .elementor-element.elementor-element-50dfbb5 .elementor-button:hover svg, .elementor-6631 .elementor-element.elementor-element-50dfbb5 .elementor-button:focus svg {fill: #fff;}
+.elementor-6631 .elementor-element.elementor-element-50dfbb5 > .elementor-widget-container {padding: 14px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-6631 .elementor-element.elementor-element-2d640123 {padding: 100px 25px 100px 25px;}}
+@media (max-width:767px) {.elementor-6631 .elementor-element.elementor-element-2d640123 {padding: 50px 20px 50px 20px;}
+	.elementor-6631 .elementor-element.elementor-element-30fe2fb5 .elementor-heading-title {font-size: 55px;}}

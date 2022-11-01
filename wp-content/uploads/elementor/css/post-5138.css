@@ -57,15 +57,17 @@ body.rtl .elementor-5138 .elementor-element.elementor-element-43e04512 {left: 7%
 .elementor-5138 .elementor-element.elementor-element-8dc9a7a.elementor-column > .elementor-widget-wrap {justify-content: center;}
 .elementor-5138 .elementor-element.elementor-element-8dc9a7a > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-5138 .elementor-element.elementor-element-8dc9a7a > .elementor-element-populated {padding: 8% 14% 8% 14%;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c span.ht-count {width: 139px;height: 185px;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .ht-countdown-flip .htmega-time .htmega-time-inner {width: 139px;height: 185px;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .ht-countdown-flip .htmega-time .htmega-time-inner .htmega-top {line-height: 185px;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .htmega-countbox .ht-count {margin-right: 22px;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .htmega-flash-flip-countdown-timer .ht-countdown-flip .htmega-time {margin-right: 22px;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .htmega-countbox span.time-count {color: #242424;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .ht-countdown-flip .htmega-time .htmega-time-inner .ht-count {color: #242424;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .htmega-countbox span span.count-inner p {color: #242424;}
-.elementor-5138 .elementor-element.elementor-element-eb6133c .ht-countdown-flip .htmega-time .htmega-label p {color: #242424;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae span.ht-count {width: 139px;height: 185px;text-align: center;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .ht-countdown-flip .htmega-time .htmega-time-inner {width: 139px;height: 185px;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .ht-countdown-flip .htmega-time .htmega-time-inner .htmega-top {line-height: 185px;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-countbox .ht-count {margin-right: 22px;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-flash-flip-countdown-timer .ht-countdown-flip .htmega-time {margin-right: 22px;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-countbox .ht-count::before {color: #5e5b60;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-countbox span.time-count {color: #242424;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .ht-countdown-flip .htmega-time .htmega-time-inner .ht-count {color: #242424;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-countbox span.time-count::before {background-size: 80% auto;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .htmega-countbox span span.count-inner p {color: #242424;}
+.elementor-5138 .elementor-element.elementor-element-2a312ae .ht-countdown-flip .htmega-time .htmega-label p {color: #242424;}
 .elementor-5138 .elementor-element.elementor-element-599cc6d0 {text-align: center;}
 .elementor-5138 .elementor-element.elementor-element-599cc6d0 .elementor-heading-title {color: #000;font-family: "Sora",Sans-serif;font-size: 3.6vw;font-weight: 600;text-transform: capitalize;font-style: normal;text-decoration: none;line-height: 1.3em;letter-spacing: -2px;word-spacing: 0em;}
 .elementor-5138 .elementor-element.elementor-element-599cc6d0 > .elementor-widget-container {margin: 70px 0px 50px 0px;}
