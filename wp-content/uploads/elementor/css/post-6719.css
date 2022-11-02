@@ -1,0 +1,19 @@
+.elementor-6719 .elementor-element.elementor-element-396a4c78:not(.elementor-motion-effects-element-type-background), .elementor-6719 .elementor-element.elementor-element-396a4c78 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #f4f5f9;}
+.elementor-6719 .elementor-element.elementor-element-396a4c78 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 20px 0px 20px 0px;}
+.elementor-6719 .elementor-element.elementor-element-396a4c78 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .ht-custom-carousel .slick-slide {padding: 100px 0px 100px 0px;}
+.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .ht-custom-carousel .slick-slide.slick-center .single-custom-carousel {transform: scale(1.9);}
+.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .htmega-carousel-activation .slick-dots li button {background-color: #000;border-style: solid;border-width: 1px 1px 1px 1px;border-color: #000;height: 10px;width: 10px !important;}
+.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .htmega-carousel-activation .slick-dots {bottom: -35px;}
+.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .htmega-carousel-activation .slick-dots li.slick-active button {background-color: #0056ff;border-style: solid;border-width: 1px 1px 1px 1px;border-color: #0056ff;}
+.elementor-6719 .elementor-element.elementor-element-e435571 {padding: 60px 0px 60px 0px;}
+.elementor-6719 .elementor-element.elementor-element-f8ea43e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-6719 .elementor-element.elementor-element-f8ea43e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-6719 .elementor-element.elementor-element-56cc3c26 .htmega-toggle-button {text-align: center;}
+.elementor-6719 .elementor-element.elementor-element-56cc3c26 .htmega-toggle-button a {color: #fff;font-family: "Roboto",Sans-serif;font-size: 14px;font-weight: 600;text-transform: capitalize;margin: 50px 0px 0px 0px;padding: 18px 45px 18px 45px;background-color: transparent;background-image: linear-gradient(90deg,#fc4774 0%,#ff9510 100%);border-radius: 100px 100px 100px 100px;}
+.elementor-6719 .elementor-element.elementor-element-56cc3c26 .htmega-toggle-button a svg path {fill: #fff;}
+.elementor-6719 .elementor-element.elementor-element-56cc3c26 .htmega-toggle-button a:hover {color: #fff;}
+.elementor-6719 .elementor-element.elementor-element-56cc3c26 .htmega-toggle-button a:hover svg path {fill: #fff;}
+@media (max-width:1024px) {.elementor-6719 .elementor-element.elementor-element-396a4c78 {padding: 80px 0px 50px 0px;}
+	.elementor-6719 .elementor-element.elementor-element-1afe4bf7 .ht-custom-carousel .slick-slide {padding: 40px 0px 40px 0px;}}
+@media (max-width:767px) {.elementor-6719 .elementor-element.elementor-element-396a4c78 {padding: 80px 0px 40px 0px;}}
