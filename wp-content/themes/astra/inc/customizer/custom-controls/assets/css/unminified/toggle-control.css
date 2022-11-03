@@ -10,3 +10,4 @@
 .ast-switch:disabled ~ label {background: #f0f0f0;pointer-events: none;}
 .ast-switch:disabled ~ label:after {background: #d1d1d1;box-shadow: 0 1px 2px 0 rgba(72,72,72,.5);}
 .ast-switch:not(:checked), .ast-switch:checked {opacity: 0;}
+.components-toggle-control .components-base-control__field {display: flex;margin-bottom: 12px;line-height: initial;align-items: center;}

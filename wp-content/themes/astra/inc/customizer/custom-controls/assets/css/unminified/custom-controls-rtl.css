@@ -192,7 +192,10 @@
 .components-color-picker__saturation-color {border-radius: 3px;}
 .components-color-picker__saturation-white {border-radius: 3px;}
 .astra-color-picker-wrap {position: absolute;z-index: 1;top: 30px;right: 0;left: 0;bottom: 0;display: none;}
+.astra-color-picker-wrap .astra-popover-color .components-popover__content {width: 248px;margin-bottom: 10px;margin-top: 10px;}
 .astra-color-picker-wrap .astra-popover-color .components-color-picker, .astra-color-picker-wrap .astra-popover-color .react-colorful {width: 100%;}
+.astra-popover-color .components-custom-gradient-picker {z-index: 1;}
+.astra-popover-color .components-custom-gradient-picker__ui-line {z-index: -1;}
 .astra-color-picker-wrap.picker-open {display: block;}
 .ast-field-settings-modal .astra-color-picker-wrap {position: relative;top: 10px;}
 .ast-color-palette .components-circular-option-picker__option-wrapper {margin-left: 6px;position: relative;}
@@ -445,7 +448,10 @@
 .components-color-picker__saturation-color {border-radius: 3px;}
 .components-color-picker__saturation-white {border-radius: 3px;}
 .astra-color-picker-wrap {position: absolute;z-index: 1;top: 30px;right: 0;left: 0;bottom: 0;display: none;}
+.astra-color-picker-wrap .astra-popover-color .components-popover__content {width: 248px;margin-bottom: 10px;margin-top: 10px;}
 .astra-color-picker-wrap .astra-popover-color .components-color-picker, .astra-color-picker-wrap .astra-popover-color .react-colorful {width: 100%;}
+.astra-popover-color .components-custom-gradient-picker {z-index: 1;}
+.astra-popover-color .components-custom-gradient-picker__ui-line {z-index: -1;}
 .astra-color-picker-wrap.picker-open {display: block;}
 .ast-field-settings-modal .astra-color-picker-wrap {position: relative;top: 10px;}
 .ast-color-palette .components-circular-option-picker__option-wrapper {margin-left: 6px;position: relative;}
@@ -954,6 +960,7 @@ span.customize-control-title.ast-group-section-title {margin-bottom: 4px;font-we
 .ast-switch:disabled ~ label {background: #f0f0f0;pointer-events: none;}
 .ast-switch:disabled ~ label:after {background: #d1d1d1;box-shadow: 0 1px 2px 0 rgba(72,72,72,.5);}
 .ast-switch:not(:checked), .ast-switch:checked {opacity: 0;}
+.components-toggle-control .components-base-control__field {display: flex;margin-bottom: 12px;line-height: initial;align-items: center;}
 .dashicons-editor-help[data-title] {z-index: 10;}
 .ast-dashicons-custom-tooltip {display: none;opacity: 0;position: absolute;top: 0;bottom: 0;right: 0;left: 0;width: 100%;height: 100%;}
 .ast-dashicons-custom-tooltip[data-title]::after {content: attr(data-title);min-width: 3em;max-width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;padding: 1ch 1.5ch;border-radius: .3ch;background: var(--ast-customizer-color-12);color: var(--ast-customizer-color-10);z-index: 1000;bottom: calc(100% + 5px);text-align: center;animation: tooltips-vert .3s ease-out forwards;text-transform: none;font-size: .9em;line-height: 1;user-select: none;pointer-events: none;position: absolute;display: none;opacity: 0;right: 50%;transform: translate(50%,-.5em);}
@@ -1420,6 +1427,7 @@ span.customize-control-title.ast-group-section-title {margin-bottom: 4px;font-we
 .ast-switch:disabled ~ label {background: #f0f0f0;pointer-events: none;}
 .ast-switch:disabled ~ label:after {background: #d1d1d1;box-shadow: 0 1px 2px 0 rgba(72,72,72,.5);}
 .ast-switch:not(:checked), .ast-switch:checked {opacity: 0;}
+.components-toggle-control .components-base-control__field {display: flex;margin-bottom: 12px;line-height: initial;align-items: center;}
 .dashicons-editor-help[data-title] {z-index: 10;}
 .ast-dashicons-custom-tooltip {display: none;opacity: 0;position: absolute;top: 0;bottom: 0;right: 0;left: 0;width: 100%;height: 100%;}
 .ast-dashicons-custom-tooltip[data-title]::after {content: attr(data-title);min-width: 3em;max-width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;padding: 1ch 1.5ch;border-radius: .3ch;background: var(--ast-customizer-color-12);color: var(--ast-customizer-color-10);z-index: 1000;bottom: calc(100% + 5px);text-align: center;animation: tooltips-vert .3s ease-out forwards;text-transform: none;font-size: .9em;line-height: 1;user-select: none;pointer-events: none;position: absolute;display: none;opacity: 0;right: 50%;transform: translate(50%,-.5em);}

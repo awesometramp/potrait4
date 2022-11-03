@@ -158,11 +158,6 @@
 .ast-customize-control-title span.dashicons.dashicons-external {margin-right: 10px;}
 .ahfb-header-builder-is-active #customize-theme-controls #sub-accordion-section-section-header-builder.ahfb-header-builder-active.ahfb-builder-hide, .ahfb-header-builder-is-active .preview-only.collapsed #customize-theme-controls #sub-accordion-section-section-header-builder.ahfb-header-builder-active.ahfb-builder-hide, .ahfb-footer-builder-is-active .in-sub-panel #customize-theme-controls #sub-accordion-section-section-footer-builder.ahfb-footer-builder-active.ahfb-builder-hide {transform: translateY(100%);overflow: visible;}
 li#customize-control-astra-settings-header-desktop-items, li#customize-control-astra-settings-header-mobile-items, li#customize-control-astra-settings-footer-desktop-items {transition: all .3s;background: #eee;border-top: 1px solid #ddd;}
-.components-popover.ahfb-popover-add-builder {right: 50% !important;top: 0 !important;position: absolute;bottom: auto;}
-.ahfb-builder-group .ahfb-builder-area:nth-child(3) .ahfb-builder-add-item.center-on-left .components-popover.ahfb-popover-add-builder, .ahfb-builder-group .ahfb-builder-area:nth-child(4) .ahfb-builder-add-item .components-popover.ahfb-popover-add-builder, .ahfb-builder-group .ahfb-builder-area:nth-child(5) .ahfb-builder-add-item .components-popover.ahfb-popover-add-builder, .ahfb-builder-group.ast-grid-row-layout-3-cwide .ahfb-builder-area-3 .ahfb-builder-add-item .components-popover.ahfb-popover-add-builder {right: -20% !important;}
-.ahfb-builder-group.ast-grid-row-layout-6-equal .ahfb-builder-area-6 .ahfb-builder-add-item .components-popover.ahfb-popover-add-builder {right: -35% !important;}
-.customize-control-ast-builder .components-popover.ahfb-popover-add-builder[data-x-axis="center"] {right: 160px !important;}
-.customize-control-ast-builder .components-popover.ahfb-popover-add-builder[data-x-axis="right"] {right: 0px !important;}
 .components-popover__content .ahfb-popover-builder-list .ahfb-radio-container-control {display: grid;grid-template-columns: 1fr 1fr 1fr;grid-gap: 5px;width: 300px;max-height: 340px;}
 .ahfb-popover-builder-list {padding: 0 5px;}
 .ahfb-popover-builder-list .ahfb-radio-container-control .components-button.is-tertiary {font-size: 12px;margin: 0;display: grid;text-transform: capitalize;}
@@ -184,7 +179,7 @@ li#customize-control-astra-settings-header-desktop-items, li#customize-control-a
 .ahfb-responsive-control-bar .floating-controls .components-button.is-tertiary:not(.active-device):hover, .ahfb-responsive-control-bar .floating-controls .components-button.is-tertiary:hover:not(:disabled) {color: #718096;box-shadow: none;}
 .ahfb-responsive-control-bar .floating-controls .components-button.active-device.is-tertiary:not(.active-device):hover {box-shadow: none;}
 .ahfb-responsive-control-bar .floating-controls .components-button {height: 18px;padding-top: 0;padding-bottom: 0;box-shadow: none;}
-.ahfb-responsive-control-bar .floating-controls .components-button svg {height: 16px;width: 16px;}
+.ahfb-responsive-control-bar .floating-controls .components-button svg {height: 13px;width: 16px;fill: none;}
 .ahfb-responsive-control-bar .floating-controls .components-button:focus:not(:disabled) {color: #007cba;box-shadow: none;}
 .ahfb-responsive-control-bar .floating-controls .components-button-group {display: flex;border: 0;}
 .ahfb-sorter-drop-social_item_group .components-button-group {border: 1px solid #ddd;}
@@ -213,7 +208,6 @@ li#customize-control-astra-settings-header-desktop-items, li#customize-control-a
 .ahfb-popover-tabs.ahfb-background-tabs .components-tab-panel__tabs .components-button:hover {box-shadow: none !important;opacity: 1;border-bottom: 4px solid #dadada;}
 .ahfb-popover-tabs.ahfb-background-tabs .components-tab-panel__tabs .components-button.active-tab {border-bottom-color: #007cba;opacity: 1;}
 .components-popover__content .ahfb-radio-container-control {padding: 20px 5px;background: white;}
-.components-popover.ahfb-popover-add-builder .components-popover__content {bottom: 0;}
 .ahfb-control-field .ahfb-background-tabs .customize-control-title {padding-top: 10px;font-size: 12px;display: block;}
 .ahfb-control-field.ahfb-background-control .ahfb-responsive-control-bar .floating-controls {display: flex;align-items: center;margin-right: 0px;}
 .ahfb-control-field.ahfb-background-control .ahfb-responsive-control-bar .customize-control-title {flex-grow: 1;}

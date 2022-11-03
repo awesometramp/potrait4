@@ -50,7 +50,10 @@
 .components-color-picker__saturation-color {border-radius: 3px;}
 .components-color-picker__saturation-white {border-radius: 3px;}
 .astra-color-picker-wrap {position: absolute;z-index: 1;top: 30px;right: 0;left: 0;bottom: 0;display: none;}
+.astra-color-picker-wrap .astra-popover-color .components-popover__content {width: 248px;margin-bottom: 10px;margin-top: 10px;}
 .astra-color-picker-wrap .astra-popover-color .components-color-picker, .astra-color-picker-wrap .astra-popover-color .react-colorful {width: 100%;}
+.astra-popover-color .components-custom-gradient-picker {z-index: 1;}
+.astra-popover-color .components-custom-gradient-picker__ui-line {z-index: -1;}
 .astra-color-picker-wrap.picker-open {display: block;}
 .ast-field-settings-modal .astra-color-picker-wrap {position: relative;top: 10px;}
 .ast-color-palette .components-circular-option-picker__option-wrapper {margin-left: 6px;position: relative;}

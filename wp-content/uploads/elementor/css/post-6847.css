@@ -1,0 +1,24 @@
+.elementor-6847 .elementor-element.elementor-element-30841b75:not(.elementor-motion-effects-element-type-background), .elementor-6847 .elementor-element.elementor-element-30841b75 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-6847 .elementor-element.elementor-element-30841b75, .elementor-6847 .elementor-element.elementor-element-30841b75 > .elementor-background-overlay {border-radius: 50px 50px 0px 0px;}
+.elementor-6847 .elementor-element.elementor-element-30841b75 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0px 0px 0px 0px;}
+.elementor-6847 .elementor-element.elementor-element-30841b75 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-6847 .elementor-element.elementor-element-739b4a80 {--divider-border-style: solid;--divider-color: rgba(0,0,0,.16);--divider-border-width: 3.3px;}
+.elementor-6847 .elementor-element.elementor-element-739b4a80 .elementor-divider-separator {width: 7%;margin: 0 auto;margin-center: 0;}
+.elementor-6847 .elementor-element.elementor-element-739b4a80 .elementor-divider {text-align: center;padding-top: 13px;padding-bottom: 13px;}
+.elementor-6847 .elementor-element.elementor-element-739b4a80 > .elementor-widget-container {padding: 0px 0px 50px 0px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav {padding: 0px 0px 0px 0px;justify-content: center !important;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a {justify-content: center;color: rgba(0,0,0,.65);background-color: #fff;padding: 4px 12px 4px 12px;margin: 0px 10px 0px 10px;border-style: solid;border-width: 0px 0px 3px 0px;border-color: rgba(111,12,12,0);border-radius: 0px 0px 0px 0px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a:not(i) {font-family: "Open Sans Hebrew",Sans-serif;font-size: 16px;font-weight: 600;text-transform: capitalize;text-decoration: none;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a.htb-active {color: #fff;background-color: #000;border-radius: 35px 35px 35px 35px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-area .htmega-tab-menu-style-2 a::before {background: #fff;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a i {font-size: 14px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a .htmega-tab-svg-icon svg {width: 14px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a i, .elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a .htmega-tab-svg-icon {width: 28px;height: 26px;}
+.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-single-tab {padding: 20px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-6847 .elementor-element.elementor-element-30841b75 {padding: 80px 0px 70px 0px;}
+	.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a {padding: 0px 40px 0px 40px;margin: 5px 5px 5px 5px;}}
+@media (max-width:767px) {.elementor-6847 .elementor-element.elementor-element-30841b75, .elementor-6847 .elementor-element.elementor-element-30841b75 > .elementor-background-overlay {border-radius: -12px -12px -12px -12px;}
+	.elementor-6847 .elementor-element.elementor-element-30841b75 {padding: 0px 0px 0px 0px;}
+	.elementor-6847 .elementor-element.elementor-element-739b4a80 .elementor-divider-separator {width: 20%;}
+	.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav {padding: 0px 0px 0px 0px;}
+	.elementor-6847 .elementor-element.elementor-element-31e669c0 .htmega-tab-nav a {padding: 4px 14px 4px 14px;margin: 5px 5px 5px 5px;}}
