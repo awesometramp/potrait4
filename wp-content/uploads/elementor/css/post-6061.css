@@ -30,7 +30,8 @@
 #jet-popup-6061 .jet-popup__container-inner {justify-content: flex-start;border-radius: 5px 5px 5px 5px;}
 #jet-popup-6061 .jet-popup__container-overlay {border-radius: 5px 5px 5px 5px;}
 #jet-popup-6061 .jet-popup__close-button {transform: translateX(-5px) translateY(5px);-webkit-transform: translateX(-5px) translateY(5px);background-color: #f55;}
-@media (max-width:767px) {.elementor-6061 .elementor-element.elementor-element-3117aa23 > .elementor-widget-container > .jet-tabs {padding: 0px 0px 0px 0px;margin: 0% 0% 0% 0%;}
+@media (max-width:767px) {.elementor-6061 .elementor-element.elementor-element-4315bbec > .elementor-element-populated {margin: 0% 0% 0% 0%;--e-column-margin-right: 0%;--e-column-margin-left: 0%;padding: 0% 0% 0% 0%;}
+	.elementor-6061 .elementor-element.elementor-element-3117aa23 > .elementor-widget-container > .jet-tabs {padding: 0px 0px 0px 0px;margin: 0% 0% 0% 0%;}
 	.elementor-6061 .elementor-element.elementor-element-3117aa23 > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper {align-self: stretch;justify-content: flex-start;flex-grow: 0;}
 	.elementor-6061 .elementor-element.elementor-element-3117aa23 > .elementor-widget-container > .jet-tabs.jet-tabs-position-left > .jet-tabs__control-wrapper > .jet-tabs__control.jet-tabs__control-icon-left .jet-tabs__control-inner {justify-content: flex-start;}
 	.elementor-6061 .elementor-element.elementor-element-3117aa23 > .elementor-widget-container > .jet-tabs.jet-tabs-position-left > .jet-tabs__control-wrapper > .jet-tabs__control.jet-tabs__control-icon-right .jet-tabs__control-inner {justify-content: flex-start;}

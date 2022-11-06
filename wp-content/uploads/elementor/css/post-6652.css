@@ -16,3 +16,4 @@
 #jet-popup-6652 .jet-popup__container-inner {justify-content: flex-start;border-radius: 5px 5px 5px 5px;}
 #jet-popup-6652 .jet-popup__container-overlay {border-radius: 5px 5px 5px 5px;}
 #jet-popup-6652 .jet-popup__close-button {transform: translateX(-5px) translateY(5px);-webkit-transform: translateX(-5px) translateY(5px);background-color: #933afe;}
+@media (max-width:767px) {.elementor-6652 .elementor-element.elementor-element-4ed29133 > .elementor-widget-container > .jet-tabs > .jet-tabs__control-wrapper {align-self: flex-start;}}

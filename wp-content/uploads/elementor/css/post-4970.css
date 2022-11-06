@@ -309,7 +309,9 @@
 .elementor-4970 .elementor-element.elementor-element-46764aa1 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-4970 .elementor-element.elementor-element-263408e9 {text-align: center;}
 .elementor-4970 .elementor-element.elementor-element-263408e9 .elementor-heading-title {color: #fff;font-size: 65px;font-weight: 600;}
-.elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button {font-size: 14px;font-weight: 600;text-transform: uppercase;fill: #000;color: #000;background-color: #fff;border-radius: 0px 0px 0px 0px;padding: 15px 45px 15px 45px;}
+.elementor-4970 .elementor-element.elementor-element-342ffe5 {text-align: center;}
+.elementor-4970 .elementor-element.elementor-element-342ffe5 .elementor-heading-title {color: #fff;}
+.elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button {font-size: 14px;font-weight: 600;text-transform: uppercase;fill: #000;color: #000;background-color: #fff;border-radius: 9px 9px 9px 9px;padding: 15px 45px 15px 45px;}
 .elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button:hover, .elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button:focus {color: #fff;background-color: #f25050;}
 .elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button:hover svg, .elementor-4970 .elementor-element.elementor-element-226d7f0d .elementor-button:focus svg {fill: #fff;}
 .elementor-4970 .elementor-element.elementor-element-226d7f0d > .elementor-widget-container {padding: 14px 0px 0px 0px;}
